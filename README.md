@@ -7,3 +7,5 @@ Usage
 -----
 
   $('#id').decimalkeys('format_money_decimal').number(true, format_money_precision, 'format_money_decimal', 'format_money_ths');
+  
+  $('#id').decimalkeys('.').number(true, 2, '.', ',');
